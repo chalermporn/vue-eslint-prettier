@@ -1,5 +1,5 @@
 {
-  "name": "vue-elint-pritter",
+  "name": "vue-eslint-prettier",
   "version": "0.1.0",
   "private": true,
   "scripts": {
